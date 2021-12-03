@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.company.dao"},{"l":"com.company.dao.impl"},{"l":"com.company.entity"},{"l":"com.company.entity.criteria"},{"l":"com.company.entity.enums"},{"l":"com.company.main"},{"l":"com.company.service"},{"l":"com.company.service.impl"},{"l":"com.company.service.validation"}];updateSearchResults();

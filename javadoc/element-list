@@ -1,0 +1,9 @@
+com.company.dao
+com.company.dao.impl
+com.company.entity
+com.company.entity.criteria
+com.company.entity.enums
+com.company.main
+com.company.service
+com.company.service.impl
+com.company.service.validation
